@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Buy some milk", "isFav": false },
+    { "id": 2, "title": "Play Gloomhaven", "isFav": true },
+    { "id": 3, "title": "Mow the lawn", "isFav": false },
+    { "id": 4, "title": "Become an eldren lord", "isFav": true },
+    { "id": 5, "title": "Eat some pinapples", "isFav": false }
+  ]
+}
